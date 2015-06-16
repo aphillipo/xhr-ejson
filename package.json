@@ -4,23 +4,24 @@
   "description": "Promised JSON XHR.",
   "main": "index.js",
   "dependencies": {
-    "jsonify": "~0.0.0",
+    "ejson": "~0.0.0",
     "xhr": "git://github.com/nathan7/xhr"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/nathan7/xhr-json.git"
+    "url": "git://github.com/aphillipo/xhr-ejson.git"
   },
   "keywords": [
     "promise",
     "xhr",
-    "json"
+    "json",
+    "ejson"
   ],
-  "author": "Nathan Zadoks",
+  "author": "Andrew Phillipo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nathan7/xhr-json/issues"
+    "url": "https://github.com/aphillipo/xhr-ejson/issues"
   },
   "browser": {
     "json": false
