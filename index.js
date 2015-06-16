@@ -2,7 +2,6 @@ var xhr = require('xhr')
   , Json
 if (typeof EJSON === 'object') Json = EJSON
 if (!Json) try { Json = require('ejson') } catch(e) {}
-if (!Json) try { Json = require('jsonify') } catch(e) {}
 if (!Json) Json = require('json')
 
 module.exports = 
