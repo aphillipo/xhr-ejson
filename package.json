@@ -1,10 +1,10 @@
 {
-  "name": "xhr-json",
-  "version": "2.2.4",
-  "description": "Promised JSON XHR.",
+  "name": "xhr-ejson",
+  "version": "1.0.0",
+  "description": "Promised EJSON XHR.",
   "main": "index.js",
   "dependencies": {
-    "ejson": "~0.0.0",
+    "ejson": "~2.0.1",
     "xhr": "git://github.com/nathan7/xhr"
   },
   "devDependencies": {},
