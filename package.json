@@ -4,7 +4,7 @@
   "description": "Promised EJSON XHR.",
   "main": "index.js",
   "dependencies": {
-    "ejson": "~2.0.1",
+    "ejson": "~1.0.0",
     "xhr": "git://github.com/nathan7/xhr"
   },
   "devDependencies": {},
